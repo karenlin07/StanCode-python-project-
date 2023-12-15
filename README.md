@@ -1,5 +1,5 @@
 # StanCode-python-project-
-hailstone
+hailstone/
 A positive integer ‘n’ is selected and you multiply it by 3 and add one if it's
 odd. For the even value of ‘n’, keep dividing by 2. Surprisingly, whatever changes the values
 of ‘n’ may go through in the process, it will eventually return to 1
