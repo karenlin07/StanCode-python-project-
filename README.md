@@ -1,4 +1,4 @@
-# StanCode-python-project-
+# StanCode-python-project
 ##**Hailstone**<br>
 A positive integer ‘n’ is selected and you multiply it by 3 and add one if it's odd.<br>
 For the even value of ‘n’, keep dividing by 2. Surprisingly, whatever changes the values
