@@ -23,7 +23,7 @@ def main():
     """
     answer = random_word()  # get a random word
     guessed_letter = set()  # an empty set to store guessed letters.
-    N_TURNS = 7
+    n_turns = N_TURNS 
     dashed_word = ""  # the word with dashes.
     print("The world looks like:" + word(answer, guessed_letter))
     print("You have " + str(N_TURNS) + " wrong guesses left")
@@ -50,7 +50,7 @@ def main():
 
     if N_TURNS == 0: # the number of remaining guesses is 0
         print("You are completely hung")
-        print("The answer is: " + answer)
+    print("The answer is: " + answer)
 
 
 def word(answer, guessed_letter):
